@@ -1,4 +1,4 @@
-baseURL = 'http://ilhamrasyid489.github.io/ilhamrasyid.github.io/'
+baseURL = 'http://ilhamrasyid489.github.io/'
 languageCode = 'en-us'
 title = 'Ilham Rasyid Page'
 theme = 'ananke'
